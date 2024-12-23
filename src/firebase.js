@@ -10,6 +10,8 @@ import { addDoc,
 import {toast} from 'react-toastify'
 
 
+
+
 const firebaseConfig = {
   apiKey: "AIzaSyDHZ159Ptym38-XJcLMcmZ1Blml7y4OklE",
   authDomain: "netflix-clone-86ee4.firebaseapp.com",
